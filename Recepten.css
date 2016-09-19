@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+	background-image: url(2.jpg);
+	background-size: 1920px;
+}
+
+h1{
+    font-family: arial;
+}
+
+h2{
+	font-family: arial;
+}
+
+ p{
+ 	font-family: verdana; /* Lettertype */
+ 	border: solid;
+ 	border-radius: 25px; /* Zorgt voor hoe afgerondde container is */
+ 	width: 400px; /* Zorgt voor de breedte van de container */
+ 	margin: 0 auto; /* Zorgt dat die in het midden staat */
+ 	padding: 20px; /* Zorgt voor ruimte boven en onder */
+}
+
+img{
+    border: solid;
+ 	border-radius: 25px; /* Zorgt voor hoe afgerondde container is */
+ 	width: 300px; /* Zorgt voor de breedte van de container */
+ 	margin: 0 auto; /* Zorgt dat die in het midden staat */
+ 	padding: 10px; /* Zorgt voor ruimte boven en onder */
+}
